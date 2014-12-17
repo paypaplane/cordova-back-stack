@@ -1,0 +1,25 @@
+{
+  "name": "cordova-back-stack",
+  "version": "1.0.0",
+  "description": "Create and manage stacks of cordova 'backbutton' event listeners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoik/cordova-back-stack.git"
+  },
+  "dependencies": {
+    "stack-track": "^1.0.0"
+  },
+  "author": "Matthew Larner <matt.larner.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoik/cordova-back-stack/issues"
+  },
+  "homepage": "https://github.com/yoik/cordova-back-stack",
+  "publishConfig": {
+    "registry": "https://npm.yoik.net/"
+  }
+}
