@@ -1,0 +1,15 @@
+.tmp
+.cordova
+.jshintrc
+.npmignore
+.git
+.DS_Store
+
+app
+diff
+
+node_modules
+
+build/dev
+
+*.log
