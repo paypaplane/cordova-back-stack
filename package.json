@@ -1,6 +1,6 @@
 {
   "name": "cordova-back-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create and manage stacks of cordova 'backbutton' event listeners",
   "main": "index.js",
   "scripts": {
