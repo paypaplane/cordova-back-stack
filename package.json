@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/yoik/cordova-back-stack/issues"
   },
-  "homepage": "https://github.com/yoik/cordova-back-stack",
-  "publishConfig": {
-    "registry": "https://npm.yoik.net/"
-  }
+  "homepage": "https://github.com/yoik/cordova-back-stack"
 }
